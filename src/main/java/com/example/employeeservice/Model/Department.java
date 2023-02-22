@@ -39,4 +39,8 @@ public class Department {
     public void setDepartment(String department) {
         this.department = department;
     }
+    
+    public String toString(){
+        return ""+this.getId+"//t"+this.getDepartment+"/t"+
+    }
 }
