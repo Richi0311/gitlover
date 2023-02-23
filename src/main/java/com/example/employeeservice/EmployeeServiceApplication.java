@@ -9,6 +9,9 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @SpringBootApplication()
 @EnableSwagger2
+@RestCOntroller
+@EnableHystrix
+@EnableAutoCOntrofiguration
 public class EmployeeServiceApplication {
 
     public static void main(String[] args) {
