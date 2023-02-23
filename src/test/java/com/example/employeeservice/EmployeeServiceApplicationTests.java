@@ -9,5 +9,26 @@ class EmployeeServiceApplicationTests {
     @Test
     void contextLoads() {
     }
+    
+     @Test
+    void contextLoads() {
+    }
+     @Test
+    void contextLoads() {
+    }
+     @Test
+    void contextLoads() {
+    }
+     @Test
+    void contextLoads() {
+    }
+     @Test
+    void contextLoads() {
+    }
+     @Test
+    void contextLoads() {
+    } @Test
+    void contextLoads() {
+    }
 
 }
