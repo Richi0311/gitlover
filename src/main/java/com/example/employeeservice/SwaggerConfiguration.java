@@ -39,4 +39,37 @@ public class SwaggerConfiguration {
                 .version("3.0")
                 .build();
     }
+	  private ApiInfo apiInfo() {
+        return  new ApiInfoBuilder().title("Employee Service")
+                .description("Employee Service with Swagger Documenttaion")
+                .termsOfServiceUrl("http://www.google.com")
+                .contact(SUPPORT_CONT)
+                .license("Employee License verion 1.0")
+                .licenseUrl("http://www.google.com/Search")
+                .version("3.0")
+                .build();
+    }
+}
+  private ApiInfo apiInfo() {
+        return  new ApiInfoBuilder().title("Employee Service")
+                .description("Employee Service with Swagger Documenttaion")
+                .termsOfServiceUrl("http://www.google.com")
+                .contact(SUPPORT_CONT)
+                .license("Employee License verion 1.0")
+                .licenseUrl("http://www.google.com/Search")
+                .version("3.0")
+                .build();
+    }
+}
+  private ApiInfo apiInfo() {
+        return  new ApiInfoBuilder().title("Employee Service")
+                .description("Employee Service with Swagger Documenttaion")
+                .termsOfServiceUrl("http://www.google.com")
+                .contact(SUPPORT_CONT)
+                .license("Employee License verion 1.0")
+                .licenseUrl("http://www.google.com/Search")
+                .version("3.0")
+                .build();
+    }
+}
 }
